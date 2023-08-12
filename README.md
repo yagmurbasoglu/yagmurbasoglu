@@ -15,5 +15,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yagmurbasoglu&show_icons=true&locale=en&layout=compact" alt="yagmurbasoglu" /></p>
 
-![Snake animation](https://github.com/yagmurbasoglu/yagmurbasoglu/blob/output/github-contribution-grid-snake.svg)
-
