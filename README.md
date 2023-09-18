@@ -1,4 +1,4 @@
-[![MasterHead](https://www.moradam.com/wp-content/uploads/2017/07/yazilim.jpg)
+![MasterHead](https://www.moradam.com/wp-content/uploads/2017/07/yazilim.jpg)
 <h1 align="center">Hi 👋, I'm Yağmur Başoğlu</h1>
 <h3 align="center">A passionate computer engineering student from Türkiye</h3>
 
