@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yağmur Başoğlu</h1>
 <h3 align="center">A passionate computer engineering student from Türkiye</h3>
 
-- 🌱 I’m currently learning **Java , Python ,AI and Robotics**
+- 🌱 I’m currently learning **Java , Python ,AI and Robotics ,Unity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
